@@ -1,0 +1,45 @@
+
+body{
+    background-color: gainsboro;
+}
+div{
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 5%;
+    width:50%;
+    background-color: white;
+    height: 520px;
+    border: 2px solid black;
+    border-radius: 10px;
+    box-shadow: 20% 100% 20% 100% black;
+}
+div .form1 label{
+    font-size: 25px;
+    font-weight: bold;
+    line-height: 200%;
+    margin-left: 20px;
+}
+div .form1 input{
+    color: grey;
+    width:80%;
+    height:50px;
+    margin-left: 10%;
+    border: 2px solid rgb(14, 13, 13);
+    border-radius: 2px;
+}
+div .form1 textarea{
+    padding: 5px;
+    color:grey;
+    width:79%;
+    margin-left: 10%;
+    border: 2px solid rgb(14, 13, 13);
+    border-radius: 2px;
+}
+div .form1 .btn_submit{
+    color:black;
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 76px;
+    background-color: rgb(5, 238, 160);
+    border-style: none;
+}
